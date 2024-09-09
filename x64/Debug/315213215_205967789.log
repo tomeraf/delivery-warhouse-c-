@@ -1,0 +1,4 @@
+﻿  WareHouse.cpp
+C:\uni\C\spl\315213215_205967789\src\WareHouse.cpp(331,31): warning C4858: discarding return value: The 'remove' and 'remove_if' algorithms return the iterator past the last element that should be kept. You need to call container.erase(result, container.end()) afterwards. In C++20, 'std::erase' and 'std::erase_if' are simpler replacements for these two steps.
+C:\uni\C\spl\315213215_205967789\src\WareHouse.cpp(342,31): warning C4858: discarding return value: The 'remove' and 'remove_if' algorithms return the iterator past the last element that should be kept. You need to call container.erase(result, container.end()) afterwards. In C++20, 'std::erase' and 'std::erase_if' are simpler replacements for these two steps.
+  315213215_205967789.vcxproj -> C:\uni\C\spl\315213215_205967789\x64\Debug\315213215_205967789.exe
